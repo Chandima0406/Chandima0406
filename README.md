@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OOP With Java**
 
-- 🌱 I’m undergraduate at Sabaragamuwa university of sri lanka **Sabaragamuwa university of sri lanka**
+- 🌱 I’m undergraduate at Sabaragamuwa university of sri lanka **Sabaragamuwa University of Sri Lanka**
 
 - 📫 How to reach me **chandima0406sajith@gmail.com**
 
