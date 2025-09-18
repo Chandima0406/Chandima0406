@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandima Wijerathna</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h4 align="center">Specialized in MERN Stack Development</h4>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F76B&center=true&vCenter=true&width=435&lines=Frontend+Developer;Java+Enthusiast;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F76B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Java+Enthusiast;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chandima0406&label=Profile%20views&color=0e75b6&style=flat" alt="chandima0406" /> </p>
@@ -15,9 +16,10 @@
 
 ## 🚀 About Me
 
+- 💼 I'm a **Full-Stack Developer** specialized in **MERN Stack**
 - 🌱 I'm currently learning **OOP With Java**
 - 🎓 I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**
-- 💡 Interested in frontend development, UI/UX design, and problem solving
+- 💡 Passionate about creating seamless web experiences from frontend to backend
 - 📫 How to reach me: **chandima0406sajith@gmail.com**
 - ⚡ Fun fact: **Call me as Chandima**
 
@@ -30,12 +32,20 @@
 
 ## 🛠️ Technologies & Tools
 
+### MERN Stack
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
 ### Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
@@ -71,7 +81,7 @@
   <a href="mailto:chandima0406sajith@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/chandima-wijerathna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
